@@ -1,0 +1,5 @@
+.card-img-top {
+  width: 100% !important;
+  height: 250px !important;     /* välj samma höjd på alla */
+  object-fit: cover !important; /* skär bilden istället för att pressa den */
+}
