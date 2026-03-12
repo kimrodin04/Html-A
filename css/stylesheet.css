@@ -7,3 +7,26 @@
 .nav-underline .nav-link {
   color: #fff !important; /* vit text */
 }
+
+.card {
+  
+}
+
+
+@media (max-width: 768px) {
+  .text-first {
+  text-align: center;
+}
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
