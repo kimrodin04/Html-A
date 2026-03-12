@@ -3,3 +3,7 @@
   height: 250px !important;     /* välj samma höjd på alla */
   object-fit: cover !important; /* skär bilden istället för att pressa den */
 }
+
+.nav-underline .nav-link {
+  color: #fff !important; /* vit text */
+}
