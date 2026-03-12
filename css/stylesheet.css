@@ -4,6 +4,10 @@ body {
   background-image: url('../images/body-bg.jpg') !important;
   background-size: cover;
 }
+main {
+  display: flex;
+  flex-direction: column;
+}
 
 
 .card-img-top {
