@@ -1,3 +1,11 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-image: url('../images/body-bg.jpg') !important;
+  background-size: cover;
+}
+
+
 .card-img-top {
   width: 100% !important;
   height: 250px !important;     /* välj samma höjd på alla */
@@ -8,8 +16,10 @@
   color: #fff !important; /* vit text */
 }
 
-.card {
-  
+.btn {
+  background-color: #001F3B !important; /* blå bakgrund */
+  color: #fff !important; /* vit text */
+  border: none !important; /* ingen kant */
 }
 
 
